@@ -1,0 +1,1080 @@
+
+.main {
+  width: 1440px;
+  height: 1231px;
+  position: relative;
+  }
+.frame2 {
+  width: 1440px;
+  height: 934px;
+  position: relative;
+  }
+.frame3 {
+  width: 1440px;
+  height: 1543px;
+  position: relative;
+  }
+.frame4 {
+  width: 1440px;
+  height: 1069px;
+  position: relative;
+  }
+.frame5 {
+  width: 1440px;
+  height: 1526px;
+  position: relative;
+  }
+.frame6 {
+  width: 1440px;
+  height: 1731px;
+  position: relative;
+  }
+.frame7 {
+  width: 1440px;
+  height: 1635px;
+  position: relative;
+  }
+.frame8 {
+  width: 1440px;
+  height: 1807px;
+  position: relative;
+  background-color: white;
+
+  }
+.frame9 {
+  width: 1440px;
+  height: 3269px;
+  position: relative;
+
+  }
+.frame10 {
+  width: 1440px;
+  height: 1754px;
+  position: relative;
+  background-color: white;
+  }
+.frame11 {
+  width: 1440px;
+  height: 2527px;
+  position: relative;
+
+  }
+.whiterect {
+  width:124px;
+  height: 1231px;
+  background: white;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  padding-left: 100px;
+
+}
+.HalvarMitt {
+  width: 1298.58px;
+  height: 1461.4px;
+  position: absolute;
+  left: 199px;
+  top: -4px;
+
+}
+.blue1 {
+  width: 222px;
+  height: 222px;
+  background: #0723A6;
+  position: absolute;
+  top: 10px;
+  left: 1px;
+  border-radius: 100%;
+}
+.blue2 {
+  width: 222px;
+  height: 222px;
+  background: #0723A6;
+  position: absolute;
+  top: 232px;
+  left: 1px;
+  border-radius: 100%;
+}
+.blue3 {
+  width: 222px;
+  height: 222px;
+  background: #0723A6;
+  position: absolute;
+  top: 454px;
+  left: 1px;
+  border-radius: 100%;
+}
+.blue4 {
+  width: 222px;
+  height: 222px;
+  background: #0723A6;
+  position: absolute;
+  top: 676px;
+  left: 1px;
+  border-radius: 100%;
+}
+.blue5 {
+  width: 222px;
+  height: 222px;
+  background: #0723A6;
+  position: absolute;
+  top: 898px;
+  left: 1px;
+  border-radius: 100%;
+}
+.blue6 {
+  width: 222px;
+  height: 111px;
+  background: #0723A6;
+  position: absolute;
+  top: 1120px;
+  left: 1px;
+  border-radius: 50% 50% 0 0/ 100% 100% 0 0;
+  overflow: hidden;
+}
+.p {
+  width: 530px;
+  height: 42px;
+  background: #00000;
+  position: absolute;
+  top: 764px;
+  left: 254px;
+  color: white;
+  transform: rotate(90deg);
+  font-size: 17.78px;
+}
+.p2 {
+  width: 530px;
+  height: 200px;
+  background: #00000;
+  position: relative;
+  color: white;
+  top: 66px;;
+  left: 714px;
+  transform: rotate(-71.81deg);
+
+}
+.Compos {
+  width: 1523px;
+  height: 934px;
+  position: absolute;
+  left: -42px;
+  top: 0px;
+}
+.descr1 {
+  width: 530px;
+  height: 42px;
+  background: #00000;
+  position: absolute;
+  top: 149px;
+  left: 180px;
+  color: black;
+  font-size: 128.39px;
+  font-family: 'Halvar Mittel Blk';
+
+}
+.descr2 {
+  width: 530px;
+  height: 42px;
+  background: #00000;
+  position: absolute;
+  top: 379px;
+  left: 501px;
+  color: #F6472C;
+;
+  font-size: 260px;
+  font-family: 'Halvar Mittel Blk';
+
+}
+.descr3 {
+  width: 530px;
+  height: 42px;
+  background: #00000;
+  position: absolute;
+  top: 718px;
+  left: 77px;
+  color: #0723A6;
+  font-size: 261px;
+  font-family: 'Halvar Mittel Blk';
+
+}
+.square {
+  width: 170px;
+  height: 171px;
+  background: #F6472C;
+  position: absolute;
+  top: 0px;
+  left: 169px;
+
+}
+
+.osobennosti {
+  width: 530px;
+  height: 500px;
+  background: #00000;
+  position: absolute;
+  top: 414px;
+  left: 107px;
+  color: black;
+  font-size: 128px;
+  font-family: 'Halvar Mittel Rg';
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+  z-index: 1;
+  transform:rotate(-90deg);
+}
+.osoben {
+  width: 1769px;
+  height: 1471px;
+  position: absolute;
+  left: -42px;
+  top: 28px;
+}
+.whiterect2 {
+  width:124px;
+  height: 1559px;
+  background: white;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  padding-left: 100px;
+
+}
+.whitebg {
+width: 602.11px;
+height: 842.95px;
+left: 88px;
+top: 112px;
+background: white;
+position: absolute;
+
+}
+.black {
+  width: 76.65px;
+  height: 650px;
+  background: black;
+  position: absolute;
+  top: 175px;
+  left: 250px;
+  z-index: 1;
+  transform: rotate(-38deg);
+
+}
+
+.green {
+  width: 160px;
+  height: 92px;
+  background: #296E35;
+  position: absolute;
+  top: 336px;
+  left: 20px;
+
+  z-index: 2;
+  transform: rotate(-38deg);
+}
+
+.circle {
+  width: 210px;
+  height: 210px;
+  position: absolute;
+  top: 105px;
+  left: 150px;
+  border-radius: 50%;
+  border: 85px solid #0723A6;
+
+}
+
+
+.red {
+  width: 14px;
+  height: 246px;
+  background: #F6472C;
+  position: absolute;
+  top: 200px;
+  left: 461px;
+  z-index: 1;
+
+}
+.red2 {
+  width: 14px;
+  height: 246px;
+  background: #F6472C;
+  position: absolute;
+  top: 200px;
+  left: 481px;
+  z-index: 1;
+
+}
+.red3 {
+  width: 14px;
+  height: 246px;
+  background: #F6472C;
+  position: absolute;
+  top: 200px;
+  left: 501px;
+  z-index: 1;
+
+}
+.triangle {
+width: auto;
+height: auto;
+top: 517px;
+left: 203px;
+position: absolute;
+z-index: 2;
+border-left: 100px solid transparent;
+border-right: 100px solid transparent;
+border-bottom: 180px solid #FDE300;
+transform: rotate(-38.69deg);
+}
+
+.redrect {
+  width: 90px;
+  height: 33px;
+  background: #F6472C;
+  position: absolute;
+  top: 81px;
+  left: 490px;
+  transform: rotate(51deg);
+
+}
+.greenrectsmall {
+  width: 177px;
+  height: 23px;
+  background: #296E35;
+  position: absolute;
+  top: 680px;
+  left: 163px;
+  z-index: 2;
+  transform: rotate(-38.69deg);
+}
+.greenrectsmall:hover {
+  transform: scale(45deg);
+  background: #0723A6;
+}
+.H {
+  width: 530px;
+  height: 42px;
+  background: #00000;
+  position: absolute;
+  top: 4px;
+  left: 130px;
+  color: #F6472C;
+  font-size: 280px;
+  font-family: 'Halvar Mittel Rg';
+  transform: rotate(-38.69deg);
+}
+.A {
+  width: 530px;
+  height: 42px;
+  background: #00000;
+  position: absolute;
+  top: 389px;
+  left: 46px;
+  color: #F6472C;
+  font-size: 203px;
+  font-family: 'Halvar Mittel Rg';
+  transform: rotate(-38.69deg);
+}
+.yellowcircle {
+  width: 225px;
+  height: 105px;
+  background: #FDE300;
+  position: absolute;
+  top: 202px;
+  left: 333px;
+  border-radius: 50% 50% 0 0/ 100% 100% 0 0;
+  transform: rotate(140deg);
+
+}
+.whitebg2 {
+width: 602.11px;
+height: 842.95px;
+left: 737px;
+top: 112px;
+background: white;
+position: absolute;
+}
+.bluerect {
+  width: 288px;
+  height: 129px;
+  background: #0723A6;
+  position: absolute;
+  top: 77px;
+  left: 35px;
+  transform: rotate(-24.99deg);
+}
+.yellowcircle2 {
+  width: 190px;
+  height: 90px;
+  background: #FDE300;
+  position: absolute;
+  top: 90px;
+  left: 391px;
+  border-radius: 50% 50% 0 0/ 100% 100% 0 0;
+  transform: rotate(28deg);
+
+}
+.greencircle {
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 174px;
+  left: 251px;
+  border-radius: 50%;
+  border: 30px solid #296E35;
+}
+.redcircle {
+  width: 192px;
+  height: 192px;
+  background: #F6472C;
+  position: absolute;
+  top: 300px;
+  left: 70px;
+  border-radius: 100%;
+  z-index: 1
+}
+.redrectsmall {
+  width: 59.72px;
+  height: 25.08px;
+  background: #F6472C;
+  position: absolute;
+  top: 249px;
+  left: 445px;
+  transform: rotate(51.39deg);
+
+}
+.bluecircle {
+  width: 375px;
+  height: 375px;
+  background: #0723A6;
+  position: absolute;
+  top: 352px;
+  left: 136px;
+  border-radius: 100%;
+}
+.blacksmall1 {
+  width: 21px;
+  height: 159px;
+  background: black;
+  position: absolute;
+  top: 358px;
+  left: 116px;
+  z-index: 2;
+}
+.blacksmall2 {
+  width: 21px;
+  height: 159px;
+  background: black;
+  position: absolute;
+  top: 358px;
+  left: 89px;
+  z-index: 2;
+}
+.redrectsmall2 {
+  width: 180px;
+  height: 39px;
+  background: #F6472C;
+  position: absolute;
+  top: 708px;
+  left: 70px;
+  transform: rotate(22deg);
+}
+.И {
+  width: 530px;
+  height: 500px;
+  background: #00000;
+  position: absolute;
+  top: 324px;
+  left: 273px;
+  color: #FDE300;
+  font-size: 500px;
+  font-family: 'Halvar Mittel Rg';
+  transform: rotate(-18deg);
+}
+.whitebg3 {
+  width: 1217px;
+  height: 1526px;
+  margin-left: 0;
+  background: white;
+  position: absolute;
+
+}
+.Mitt {
+  width: 530px;
+  height: 500px;
+  background: #00000;
+  position: absolute;
+  top: 747px;
+  left: 167px;
+  color: #0723A6;
+  font-size: 39.5px;
+  font-family: 'Halvar Mittel Rg';
+
+}
+.Mitt1 {
+  width: 530px;
+  height: 500px;
+  background: #00000;
+  position: absolute;
+  top: 742px;
+  left: 460px;
+  color: #0723A6;
+  font-size: 39.5px;
+  font-family: 'Halvar Mittel Rg';
+  line-height: 45.77px;
+}
+.Mitt2 {
+  width: 530px;
+  height: 500px;
+  background: #00000;
+  position: absolute;
+  top: 742px;
+  left: 774px;
+  color: #0723A6;
+  font-size: 39.5px;
+  font-family: 'Halvar Mittel Rg';
+  line-height: 45.77px;
+}
+.nachert {
+  width: auto;
+  height: auto;
+  margin-left: 54px;
+  margin-top: 50px;
+  display: block;
+}
+.nachertaniya {
+ width: 530px;
+ height: 500px;
+ position: absolute;
+ top: 156px;
+ left: 807px;
+ color: white;
+ font-size: 128px;
+ font-family: 'Halvar Mittel Rg';
+ font-weight: bold;
+ font-style: normal;
+ font-display: swap;
+ z-index: 1;
+ transform:rotate(90deg);
+}
+
+
+.three {
+  width: auto;
+  height: auto;
+  margin-left: 101px;
+  margin-top: 71px;
+  display: block;
+}
+.h1 {
+   width: 530px;
+   height: 500px;
+   background: #00000;
+   position: absolute;
+   margin-left: auto;
+   color: #0723A6;
+   font-size: 39.5px;
+ }
+ .Dom {
+   width: auto;
+   height: auto;
+   position: absolute;
+   top: 0px;
+   left: -78px;
+ }
+.Text1 {
+  width: 662px;
+  height: 246px;
+  position: absolute;
+  top: 118px;
+  left: 782px;
+  color: white;
+  font-size: 32px;
+  font-family: 'Halvar Mittel Md';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  line-height: 37px;
+
+}
+.Text2 {
+  width: 581px;
+  height: 246px;
+  position: absolute;
+  top: 144px;
+  left: 783px;
+  color: white;
+  font-size: 32px;
+  font-family: 'Halvar Mittel Md';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  line-height: 37.06px;
+
+}
+.site1 {
+  width: 581px;
+  height: 246px;
+  position: absolute;
+  top: 538px;
+  left: 264px;
+  color: black;
+  font-size: 64px;
+  font-family: 'Halvar Mittel Md';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+.site2 {
+  width: 581px;
+  height: 246px;
+  position: absolute;
+  top: 653px;
+  left: 311px;
+  color: black;
+  font-size: 40px;
+  font-family: 'Halvar Mittel Md';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+.site3 {
+  width: 581px;
+  height: 246px;
+  position: absolute;
+  top: 653px;
+  left: 606px;
+  color: black;
+  font-size: 40px;
+  font-family: 'Halvar Mittel Md';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+.site4 {
+  width: 581px;
+  height: 246px;
+  position: absolute;
+  top: 419px;
+  left: 110px;
+  color: black;
+  font-size: 40px;
+  font-family: 'Halvar Mittel Md';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  transform: rotate(-90deg);
+  }
+
+.site5 {
+  width: 581px;
+  height: 246px;
+  position: absolute;
+  top: 914px;
+  left: 671px;
+  color: black;
+  font-size: 54px;
+  font-family: 'Halvar Mittel Md';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  }
+.compic {
+  position: absolute;
+  top: 400px;
+  left: 55px;
+}
+.strelka {
+  width: 581px;
+  height: 246px;
+  position: absolute;
+  top: 1427px;
+  left: 116px;
+  color: #F6472C;
+  font-size: 96px;
+  font-family: 'Halvar Mittel Rg';
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+  z-index: 1;
+}
+.number {
+  width: 581px;
+  height: 246px;
+  position: absolute;
+  top: 1225px;
+  left: 690px;
+  color: #F6472C;
+  font-size: 250px;
+  font-family: 'Halvar Mittel Rg';
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+  z-index: 1;
+}
+.a {
+  width: 581px;
+  height: 246px;
+  position: absolute;
+  top: 1428px;
+  left: 670px;
+  color: #296E35;
+  font-size: 300px;
+  font-family: 'Halvar Mittel Rg';
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+  z-index: 1;
+}
+.a1 {
+  width: 581px;
+  height: 246px;
+  position: absolute;
+  top: 1428px;
+  left: 931px;
+  color: #0723A6;
+  font-size: 300px;
+  font-family: 'Halvar Mittel Rg SuSlanted';
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+  z-index: 1;
+}
+.a2 {
+  width: 581px;
+  height: 246px;
+  position: absolute;
+  top: 672px;
+  left: 147px;
+  color: #FDE300;
+  font-size: 250px;
+  font-family: 'Halvar Mittel Rg';
+  z-index: 1;
+}
+.A1 {
+  width: 936px;
+  height: 129px;
+  position: absolute;
+  top: 936px;
+  left: 129px;
+  color: #F6472C;
+  font-size: 300px;
+  font-family: 'Halvar Mittel Rg';
+  z-index: 1;
+}
+.plakatbig {
+  position: absolute;
+  top: 57px;
+  left: -69px;
+}
+.poster1 {
+  width: 936px;
+  height: 129px;
+  position: absolute;
+  top: 58px;
+  left: 104px;
+  color: #F6472C;
+  font-size: 250px;
+  font-family: 'Halvar Mittel Blk';
+  z-index: 1;
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+.poster2 {
+  width: 936px;
+  height: 129px;
+  position: absolute;
+  top: 58px;
+  left: 1156px;
+  color: #FDE300;
+  font-size: 250px;
+  font-family: 'Halvar Mittel Blk';
+  z-index: 1;
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+.poster3 {
+  width: 936px;
+  height: 129px;
+  position: absolute;
+  top: 340px;
+  left: 445px;
+  color: #FDE300;
+  font-size: 250px;
+  font-family: 'Halvar Mittel Blk';
+  z-index: 1;
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+.poster4 {
+  width: 936px;
+  height: 400px;
+  position: absolute;
+  top: 907px;
+  left: 685px;
+  color: #FDE300;
+  font-size: 250px;
+  font-family: 'Halvar Mittel Blk';
+  z-index: 1;
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+.poster5 {
+  width: 936px;
+  height: 400px;
+  position: absolute;
+  top: 1191px;
+  left: 537px;
+  color: #0723A6;
+  font-size: 250px;
+  font-family: 'Halvar Mittel Blk';
+  z-index: 1;
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+.poster6 {
+  width: 936px;
+  height: 400px;
+  position: absolute;
+  top: 1479px;
+  left: 80px;
+  color: #FDE300;
+  font-size: 250px;
+  font-family: 'Halvar Mittel Blk';
+  z-index: 1;
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+.table {
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+}
+.kodovaya {
+  width: 1199px;
+  height: 906px;
+  position: absolute;
+  top: 283px;
+  left: 268px;
+  color: black;
+  font-size: 128px;
+  font-family: 'Halvar Mittel Rg';
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+  transform:rotate(90deg);
+}
+.kokoshnik {
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 263px;
+  left: -14px;
+}
+.card {
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 1826px;
+  left: 386px;
+}
+.Text4 {
+  width: 662px;
+  height: 246px;
+  position: absolute;
+  top: 97px;
+  left: 782px;
+  color: white;
+  font-size: 32px;
+  font-family: 'Halvar Mittel Md';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  line-height: 37px;
+
+}
+.bye {
+  width: 1445px;
+  height: 627px;
+  position: absolute;
+  top: 1430px;
+  left: 45px;
+  color: white;
+  font-size: 205px;
+  font-family: 'Halvar Mittel Blk';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+
+}
+.card1 {
+  width: 500px;
+  height: 627px;
+  position: absolute;
+  top: 1851px;
+  left: 618px;
+  color: white;
+  font-size: 76px;
+  font-family: 'Halvar Mittel Blk';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+.card2 {
+  width: 500px;
+  height: 627px;
+  position: absolute;
+  top: 1916px;
+  left: 658px;
+  color: white;
+  font-size: 24px;
+  font-family: 'Halvar Mittel Rg';
+}
+.card3 {
+  width: 500px;
+  height: 627px;
+  position: absolute;
+  top: 1968px;
+  left: 464px;
+  color: black;
+  font-size: 29px;
+  font-family: 'Halvar Mittel Md';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+.card4 {
+  width: 500px;
+  height: 627px;
+  position: absolute;
+  top: 2026px;
+  left: 464px;
+  color: black;
+  font-size: 29px;
+  font-family: 'Halvar Mittel Md';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+.card5 {
+  width: 500px;
+  height: 627px;
+  position: absolute;
+  top: 2084px;
+  left: 464px;
+  color: black;
+  font-size: 29px;
+  font-family: 'Halvar Mittel Md';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+.Text3 {
+  width: 602px;
+  height: 246px;
+  position: absolute;
+  top: 100px;
+  left: 811px;
+  color: white;
+  font-size: 32px;
+  font-family: 'Halvar Mittel Md';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  line-height: 37px;
+}
+.cover {
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 105px;
+  left: 59px;
+
+}
+.page {
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 403px;
+  left: 685px;
+
+}
+.stuff {
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 1136px;
+  left: 44px;
+}
+.header {
+  width: 500px;
+  height: 627px;
+  position: absolute;
+  top: 115px;
+  left: 117px;
+  color: black;
+  font-size: 207.47px;
+  font-family: 'Halvar Mittel Blk';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;s
+}
+.covertext {
+  width: 602px;
+  height: 246px;
+  position: absolute;
+  top: 303px;
+  left: 530px;
+  color: black;
+  font-size: 16.6px;
+  font-family: 'Halvar Mittel Rg';
+  line-height: 19px;
+}
+.covertext2 {
+  width: 602px;
+  height: 246px;
+  position: absolute;
+  top: 122px;
+  left: 116px;
+  color: black;
+  font-size: 11.62px;
+  font-family: 'Halvar Mittel Rg';
+  line-height: 19px;
+}
+.fishtext {
+  width: 138px;
+  height: 246px;
+  position: absolute;
+  top: 820px;
+  left: 706px;
+  color: black;
+  font-size: 23px;
+  font-family: 'Halvar Mittel Rg';
+  line-height: 19px;
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+  line-height: 26.63px;
+}
+.fishtext2 {
+  width: 451px;
+  height: 246px;
+  position: absolute;
+  top: 1035px;
+  left: 864px;
+  color: black;
+  font-size: 22.41px;
+  font-family: 'Halvar Mittel Rg';
+  line-height: 25.95px;
+}
