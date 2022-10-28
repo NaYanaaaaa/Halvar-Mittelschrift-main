@@ -858,7 +858,7 @@ position: absolute;
   height: auto;
   position: absolute;
   top: 0px;
-  left: 0px;
+  left: -7px;
   z-index: 1;
 }
 .kodovaya {
@@ -866,7 +866,7 @@ position: absolute;
   height: 906px;
   position: absolute;
   top: 283px;
-  left: 268px;
+  left: 262px;
   color: black;
   font-size: 128px;
   font-family: 'Halvar Mittel Rg';
